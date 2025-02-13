@@ -2,6 +2,7 @@
 SCHEMA = {
     "Introduction": {
         "Garde": ["intro.pdf"],
+        "Table des Matières": {"_toc_": True},  # Special marker for TOC placement
     },
     "Person 1": {
         "General Information": ["info1.pdf"],
